@@ -172,7 +172,7 @@ const PRODUCTS = [
     price:       15000,
     description: 'El clásico fernet argentino con la inconfundible fórmula Beney. Elaborado con hierbas seleccionadas, ideal para mezclar o tomar solo.',
     image:       '<img src="imagenes/img42.jpg" alt="Fernet Beney 750cc3">',          // TODO: Replace with actual image path e.g. 'assets/products/fernet-750.jpg'
-    badge:       'false',
+    badge:       null,
     inStock:     true,
   },
 
