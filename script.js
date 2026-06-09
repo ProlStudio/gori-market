@@ -159,7 +159,7 @@ const PRODUCTS = [
     id:          'fernet-001',
     name:        'Fernet Beney 1.5L',
     category:    'fernet',
-    price:       15000,
+    price:       21000,
     description: 'El clásico fernet argentino con la inconfundible fórmula Beney. Elaborado con hierbas seleccionadas, ideal para mezclar o tomar solo.',
     image:       '<img src="imagenes/img46.jpg" alt="Fernet Beney 1.5L">',          // TODO: Replace with actual image path e.g. 'assets/products/fernet-750.jpg'
     badge:       'Gran Tamaño',
@@ -167,6 +167,17 @@ const PRODUCTS = [
   },
   {
     id:          'fernet-002',
+    name:        'Fernet Beney 750cc3',
+    category:    'fernet',
+    price:       15000,
+    description: 'El clásico fernet argentino con la inconfundible fórmula Beney. Elaborado con hierbas seleccionadas, ideal para mezclar o tomar solo.',
+    image:       '<img src="imagenes/img42.jpg" alt="Fernet Beney 750cc3">',          // TODO: Replace with actual image path e.g. 'assets/products/fernet-750.jpg'
+    badge:       'false',
+    inStock:     true,
+  },
+
+  {
+    id:          'fernet-003',
     name:        'Combo Día del Padre',
     category:    'fernet',
     price:       20000,
